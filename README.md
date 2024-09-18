@@ -1,16 +1,14 @@
-## Hi there 👋
+Sou um graduando de Física, com experiência em linguagens Java, C, FORTRAN, Python e Julia. Atualmente, estou focado em obter a graduação e continuar na pós-graduação em física. Meu objetivo é trabalhar com física e programação.
 
-<!--
-**wilianbauer77/wilianbauer77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
+- **Linguagens**: Python, Java, C, Julia, Fortran
+- **Ferramentas**: Git, Linux, VS Code
+- **Áreas de Interesse**: Física de plasma, Simulações numéricas, Análise de dados
 
-Here are some ideas to get you started:
+%### Projetos Destacados
+%1. [Nome do Projeto](link-para-repositorio) - Breve descrição do projeto.
+%2. [Nome do Projeto](link-para-repositorio) - Breve descrição do projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+- [LinkedIn](link-para-linkedin)
+- [Email](wilian.bauer@ufrgs.br)
