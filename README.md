@@ -5,7 +5,7 @@ Sou um graduando de Física, com experiência em linguagens Java, C, FORTRAN, Py
 - **Ferramentas**: Git, Linux, VS Code
 - **Áreas de Interesse**: Física de plasma, Simulações numéricas, Análise de dados
 
-%### Projetos Destacados
+!### Projetos Destacados
 %1. [Nome do Projeto](link-para-repositorio) - Breve descrição do projeto.
 %2. [Nome do Projeto](link-para-repositorio) - Breve descrição do projeto.
 
