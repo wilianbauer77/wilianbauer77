@@ -12,3 +12,5 @@ Graduando no curso de Física, com experiência em linguagens Java, C, FORTRAN, 
 ### Contato
 - [LinkedIn](link-para-linkedin)
 - [Email](wilian.bauer@ufrgs.br)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilianbauer77&show_icons=true&theme=radical)
