@@ -1,4 +1,4 @@
-Sou um graduando de Física, com experiência em linguagens Java, C, FORTRAN, Python e Julia. Atualmente, estou focado em obter a graduação e continuar na pós-graduação em física. Meu objetivo é trabalhar com física e programação.
+Graduando no curso de Física, com experiência em linguagens Java, C, FORTRAN, Python e Julia. Atualmente, estou focado em obter a graduação e continuar na pós-graduação em física. Meu objetivo é trabalhar com física e programação.
 
 ### Habilidades
 - **Linguagens**: Python, Java, C, Julia, Fortran
